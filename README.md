@@ -1,4 +1,5 @@
-TODOLIST created using Boilerplate Template
+TODOLIST created using Boilerplate Template<br>
+Link - https://github.com/neeraj15022001/Biolerplate
 # BoilerPlate
 
 ## Features
@@ -7,8 +8,7 @@ TODOLIST created using Boilerplate Template
 2. SEO Optimized
 3. Ready to Use HTML,CSS, JS Boilerplate
 
-## How To Use
-
+## How To Usep
 1. To change website logo navigate to root of project and replace `logo.png` with your file and rename it to **logo.png**.
    (Option 2 Optional Step if package not installed)
 2. Install npm package globally using `npm i -g pwa-asset-generator`. This will install pwa-asset-generator globally in your system.
