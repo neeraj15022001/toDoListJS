@@ -30,23 +30,17 @@
     <div class="container d-flex align-items-center justify-content-center">
       <input
         type="text"
-        class="form-control"
+        class="form-control py-2"
         placeholder="Enter Today's Task"
+        id="input-field"
       />
-      <button class="btn btn-info text-white rounded-circle ms-4 fs-3 fw-bold">
+      <button class="btn btn-info text-white rounded-circle ms-4 fs-3 fw-bold" id="add-task-button">
         <i class="bi bi-plus"></i>
       </button>
     </div>
     <div class="container mt-5">
-      <ul class="list-group">
-        <li class="list-group-item d-flex align-content-center justify-content-between">
-          <p class="w-25">Item 1</p>
-          <div class="containe">
-            <button class="btn btn-warning ms-auto">Edit</button>
-            <button class="btn btn-success">Done</button>
-            <button class="btn btn-danger">Remove</button>
-          </div>
-        </li>
+      <ul class="list-group" id="task-container">
+ 
       </ul>
     </div>
 
